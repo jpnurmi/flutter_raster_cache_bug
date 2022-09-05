@@ -1,9 +1,12 @@
 # flutter_raster_cache_bug
 
+Related issues:
 - Linux font rendering issue in dialogues flutter/flutter#109608
 - The buttons in the text selection toolbar bounce on desktop flutter/flutter#107733
 - [Windows] Overlay flickering when the cursor is hovered flutter/flutter#107921
 - Whole app is jumping after update flutter/flutter#110957
+
+Fix attempts:
 - [flow] fix RasterCache to round out device bounds flutter/engine#35538
 - Partial revert of fractional translation changes to raster cache flutter/engine#35918
 
