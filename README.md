@@ -3,7 +3,9 @@
 - Linux font rendering issue in dialogues flutter/flutter#109608
 - The buttons in the text selection toolbar bounce on desktop flutter/flutter#107733
 - [Windows] Overlay flickering when the cursor is hovered flutter/flutter#107921
-- ~~[flow] fix RasterCache to round out device bounds flutter/engine#35538~~
+- Whole app is jumping after update flutter/flutter#110957
+- [flow] fix RasterCache to round out device bounds flutter/engine#35538
+- Partial revert of fractional translation changes to raster cache flutter/engine#35918
 
 ![](https://user-images.githubusercontent.com/140617/188180337-d07a4951-6d8c-47d3-9eca-3d5bc8e516c5.png)
 
