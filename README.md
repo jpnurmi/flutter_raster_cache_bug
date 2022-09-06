@@ -9,6 +9,7 @@ Related issues:
 Fix attempts:
 - [flow] fix RasterCache to round out device bounds flutter/engine#35538
 - Partial revert of fractional translation changes to raster cache flutter/engine#35918
+- round_out certain cache bounds flutter/engine#35930
 
 ![](https://user-images.githubusercontent.com/140617/188180337-d07a4951-6d8c-47d3-9eca-3d5bc8e516c5.png)
 
