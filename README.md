@@ -5,6 +5,7 @@ Related issues:
 - The buttons in the text selection toolbar bounce on desktop flutter/flutter#107733
 - [Windows] Overlay flickering when the cursor is hovered flutter/flutter#107921
 - Whole app is jumping after update flutter/flutter#110957
+- BoxShadow dy offset calculation, Windows flutter/flutter#110959
 
 Fix attempts:
 - [flow] fix RasterCache to round out device bounds flutter/engine#35538
