@@ -6,6 +6,7 @@ Related issues:
 - [Windows] Overlay flickering when the cursor is hovered flutter/flutter#107921
 - Whole app is jumping after update flutter/flutter#110957
 - BoxShadow dy offset calculation, Windows flutter/flutter#110959
+- Revert removal of pixel snapping from flutter engine flutter/flutter#111145
 
 Fix attempts:
 - [flow] fix RasterCache to round out device bounds flutter/engine#35538
