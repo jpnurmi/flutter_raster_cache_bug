@@ -6,6 +6,9 @@ Related issues:
 - [Windows] Overlay flickering when the cursor is hovered flutter/flutter#107921
 - Whole app is jumping after update flutter/flutter#110957
 - BoxShadow dy offset calculation, Windows flutter/flutter#110959
+- Flutter 3.3.0 Fractional translation bugged my app. flutter/flutter#110648
+- Text anti-aliasing broken in Flutter 3.3.0 flutter/flutter#110738
+- Flutter 3.3.0 rendering error with Text And Divider (text jump / position error) flutter/flutter#110756
 - Revert removal of pixel snapping from flutter engine flutter/flutter#111145
 
 Abandoned PRs:
