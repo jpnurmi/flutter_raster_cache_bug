@@ -18,7 +18,7 @@ Abandoned PRs:
 
 Merged fixes:
 - add pixel snapping conditional on presence of raster cache flutter/engine#35981
-- [framework] revert removal of opacity (#111202) flutter/flutter#111207
+- [framework] revert removal of opacity flutter/flutter#111202
 
 Cherry-pick requests:
 - [CP] revert removal of opacity layers flutter/flutter#111208
