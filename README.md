@@ -11,6 +11,8 @@ Related issues:
 - Flutter 3.3.0 rendering error with Text And Divider (text jump / position error) flutter/flutter#110756
 - Font rendering issue on 3.3+ flutter/flutter#111257
 - Revert removal of pixel snapping from flutter engine flutter/flutter#111145
+- Flutter 3.3.0 dnfield/flutter_svg#770
+- Artifacts/pixelated iOS rendering compared to Android dnfield/flutter_svg#769
 
 Abandoned PRs:
 - [flow] fix RasterCache to round out device bounds flutter/engine#35538
