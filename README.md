@@ -20,9 +20,9 @@ Merged fixes:
 - add pixel snapping conditional on presence of raster cache flutter/engine#35981
 - [framework] revert removal of opacity flutter/flutter#111202
 
-Cherry-pick requests:
-- [CP] revert removal of opacity layers flutter/flutter#111208
-- [CP] Add pixel snapping conditional on presence of raster cache flutter/flutter#111231
+Cherry-picks:
+- [CP] revert removal of opacity layers flutter/flutter#111208 (https://github.com/flutter/flutter/pull/111207)
+- [CP] Add pixel snapping conditional on presence of raster cache flutter/flutter#111231 (https://github.com/flutter/engine/pull/36022)
 
 ![](https://user-images.githubusercontent.com/140617/188180337-d07a4951-6d8c-47d3-9eca-3d5bc8e516c5.png)
 
