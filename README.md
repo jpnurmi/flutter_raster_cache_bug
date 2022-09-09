@@ -9,6 +9,7 @@ Related issues:
 - Flutter 3.3.0 Fractional translation bugged my app. flutter/flutter#110648
 - Text anti-aliasing broken in Flutter 3.3.0 flutter/flutter#110738
 - Flutter 3.3.0 rendering error with Text And Divider (text jump / position error) flutter/flutter#110756
+- Font rendering issue on 3.3+ flutter/flutter#111257
 - Revert removal of pixel snapping from flutter engine flutter/flutter#111145
 
 Abandoned PRs:
