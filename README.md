@@ -1,5 +1,8 @@
 # Raster cache bug in Flutter 3.3.0
 
+| **NOTE:** The issue has been fixed in [Flutter 3.3.2](https://groups.google.com/g/flutter-announce/c/YGf90mszrAw/m/7q1a3UmrBgAJ). |
+| --- |
+
 Related issues:
 - Linux font rendering issue in dialogues flutter/flutter#109608
 - The buttons in the text selection toolbar bounce on desktop flutter/flutter#107733
